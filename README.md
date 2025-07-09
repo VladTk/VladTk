@@ -1,4 +1,4 @@
-#👋 Hey there! I'm Vladyslav — a Frontend Developer.  
+# 👋 Hey there! I'm Vladyslav — a Frontend Developer.  
 I build intuitive and user-friendly interfaces using React and TypeScript.  
 Always curious, always learning — and currently open to new opportunities!
 
